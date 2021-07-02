@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpritePack
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a2f87dd0627b6ac4b97b9952f09d95d1, type: 3}
+    totalSpriteSurfaceArea: 75705
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f88cc66088c6e4042ae13a50dfbb3662, type: 3}
+  - {fileID: 21300000, guid: db84109231a678440817c74d1158239b, type: 3}
+  - {fileID: 21300000, guid: 4e5b816343df5574c8a051077a2156b9, type: 3}
+  - {fileID: 21300000, guid: f7002bf3869bab049b5be32d04507214, type: 3}
+  - {fileID: 21300000, guid: 3cadcd247345c2649b0e8fbd9ee6e8db, type: 3}
+  - {fileID: 21300000, guid: 142faba4ceb5fdf4aae7177252aecf72, type: 3}
+  - {fileID: 21300000, guid: 08df90f463ef0d34dbb1c49eef665daf, type: 3}
+  - {fileID: 21300000, guid: 7cfa1b153c7879f47a1220f94b9258ca, type: 3}
+  - {fileID: 21300000, guid: 43335735a8cdb1746b5605815e0a96e5, type: 3}
+  - {fileID: 21300000, guid: 5c882d95cfe4e2f43b8c0a1cdea6e0a5, type: 3}
+  - {fileID: 21300000, guid: e56d2c466aae6dc4b96148e5b2431756, type: 3}
+  - {fileID: 21300000, guid: 98f841c6ac46d174ca4f358018ab8de0, type: 3}
+  - {fileID: 21300000, guid: 771dc6d7f27969a4fb87ecdeab54ae71, type: 3}
+  - {fileID: 21300000, guid: 0d2f25e7fd882224c8d93d8f0580c63f, type: 3}
+  - {fileID: 21300000, guid: 30d34a086fddb334cabc51ff314daf9a, type: 3}
+  - {fileID: 21300000, guid: 744566287c3cef64f9b897280e5d9b1a, type: 3}
+  - {fileID: 21300000, guid: e95dee2852d9b334b89f8fe9bd113319, type: 3}
+  - {fileID: 21300000, guid: 1c436558df0caa04eb65bf6f8d065918, type: 3}
+  - {fileID: 21300000, guid: 9645d9c85921f964db0eabb1de4d11af, type: 3}
+  - {fileID: 21300000, guid: d839aa1982367874bac74affe829c2e4, type: 3}
+  - {fileID: 21300000, guid: 3fa2ed196fd9aaf43a8f4ece48a41f44, type: 3}
+  - {fileID: 21300000, guid: ab3b7539ba408154db6715ef45708b56, type: 3}
+  - {fileID: 21300000, guid: 9dbac7399ba13ae4caa7872cd0ddf9c6, type: 3}
+  - {fileID: 21300000, guid: 9d986f49ce6cd534192f14632e916df7, type: 3}
+  - {fileID: 21300000, guid: 47fbbf7a9c438ed4ea370ca0e59905ff, type: 3}
+  - {fileID: 21300000, guid: 42333eca44e9f5c4f945a0f2f5d4f9f0, type: 3}
+  - {fileID: 21300000, guid: 2625d5dadaba91045b5a47296428423e, type: 3}
+  - {fileID: 21300000, guid: 364eccac494de714d84a43b20fc715d2, type: 3}
+  - {fileID: 21300000, guid: be7633cc187ae604cb9808ff3c897195, type: 3}
+  - {fileID: 21300000, guid: 202d667d5a7bcf24a842ff4c86dad758, type: 3}
+  - {fileID: 21300000, guid: 3260f72e5b6eec24587b9132cb1ae0a0, type: 3}
+  - {fileID: 21300000, guid: 1baaa93f3ec48804397f21b2614604d4, type: 3}
+  - {fileID: 21300000, guid: 1edd545fe3e8d0f458a679414f885c51, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Icon Ammo
+  - Icon Enemy C
+  - Icon Weapon Grenade
+  - Icon Score Mini
+  - Icon Heart
+  - Icon Ammo Mini
+  - Icon Boss
+  - Icon Enemy D
+  - Guage Back
+  - Icon Num2
+  - Panel A
+  - Icon Stage Mini
+  - Icon Coin Mini
+  - Icon Num3
+  - Title
+  - Icon Weapon SubMachineGun
+  - Icon Time Mini
+  - Icon Weapon Hammer
+  - Icon NumL
+  - Icon Attack
+  - Icon Num4
+  - Guage Front
+  - Panel B
+  - Icon Luna
+  - Icon Heart Mini
+  - Icon NumR
+  - Icon HP
+  - Icon Enemy B
+  - Icon Ludo
+  - Icon Num1
+  - Icon Weapon HandGun
+  - Icon Close
+  - Icon Enemy A
+  m_Tag: SpritePack
+  m_IsVariant: 0
